@@ -1,3 +1,3 @@
 # Power-BI-Dashboards
 
-Please click on the links to view the dashboards
+Please copy paste the links in your browser to view the dashboards
