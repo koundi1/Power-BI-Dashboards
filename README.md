@@ -1,3 +1,3 @@
 # Power-BI-Dashboards
 
-Plwase click on the links to view the dashboards
+Please click on the links to view the dashboards
